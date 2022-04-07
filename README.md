@@ -2,3 +2,5 @@
 
 
 Welcome to learn git!
+
+Welcome to learn CoreJava!
